@@ -1,0 +1,33 @@
+
+.frm-container{
+    overflow: hidden;
+    margin-top: 100px;
+    margin-bottom: 130px;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    box-shadow:  rgba(0,0,255,.7) 1px 4px 8px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#frm input{
+    border: 1px solid rgba(0,0,255,.7);
+    border-radius: 5px;
+    height: 30px;
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+  }
+.frm-container button{
+    width: 80%;
+    margin-left: 10%;
+    height: 30px;
+    background-color: rgba(0,0,255,.8);
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+.frm-container p,h3{
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+
+header h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.content h3{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    margin: 1em;
+    word-wrap: break-word;
+    padding: -1em;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
